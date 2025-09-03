@@ -60,28 +60,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-6C78AF?style=flat)
 
-<!-- Featured Repositories -->
-#### Featured
 
-<p align="center">
-<a href="https://github.com/abdullah-aksoy/Pusula-GCS">
-<img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-aksoy&repo=Pusula-GCS&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/abdullah-aksoy/Pusula-Obstacle-Avoidance">
-<img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-aksoy&repo=Pusula-Obstacle-Avoidance&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/abdullah-aksoy/randevu">
-<img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-aksoy&repo=randevu&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/abdullah-aksoy/certificates">
-<img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-aksoy&repo=certificates&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
 
 <p align="center">
     <!-- Social Links -->
