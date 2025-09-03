@@ -12,7 +12,7 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                「 I'm a student at <b>Ostim Technical University</b> 」
+                「 I'm a Software Engineering student at <b>Ostim Technical University</b> 」
                 <br>
                 「 Passionate about software development and building projects with various technologies »</b> 」
                 <br>
