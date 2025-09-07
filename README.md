@@ -1,12 +1,11 @@
 <div align="center" width="50">
-
 <p align="center">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=100&lines=%3E+Hey+there!%2C+I+am+Abdullah+Aksoy" 
-      width="80%" 
-      alt="Typing SVG"
-    />
-  </a>
+  <svg viewBox="0 0 600 60" xmlns="http://www.w3.org/2000/svg">
+    <text x="0" y="40" font-size="28" font-family="monospace" fill="white">
+      Hey there! I am <b>Abdullah Aksoy<b>
+      <animate attributeName="x" from="0" to="300" dur="6s" fill="freeze" />
+    </text>
+  </svg>
 </p>
 
 <p align="center">
